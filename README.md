@@ -13,7 +13,7 @@ Ao longo das aulas, os estudantes terão contato com fundamentos teóricos e ati
 ```text
 sistemas_inteligentes_2/
 ├── AULAS/
-├── ATITIVADES/
+├── ATIVIDADES/
 ├── PLANOS_DE_AULA/
 └── README.md
 ```
@@ -30,7 +30,7 @@ Contém os materiais utilizados durante as aulas da disciplina, incluindo:
 
 A organização normalmente segue a sequência cronológica dos encontros da disciplina.
 
-### ATITIVADES
+### ATIVIDADES
 
 Contém as atividades propostas aos estudantes ao longo da disciplina.
 
